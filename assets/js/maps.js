@@ -9,7 +9,7 @@ function initMap() {
         var marker = new google.maps.Marker({
           position: myLatLng,
           map: map,
-          title: 'The Keys Development'
+          title: 'Be sure to check the Satellite close up view!!'
         });
       }
    // map c/o google maps //
