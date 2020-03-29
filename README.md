@@ -34,7 +34,7 @@ a text box overlay to the left which includes a link to more
 information about the area, and has a promotional video set to the right.
 The video doesn't render on mobile as it looked cluttered.
 
-The second page has a background image of an arial shot of the area,
+The second page has a background image of an aerial shot of the area,
 and in keeping with the first page a text box to the left and this time 
  google maps to the right with a marker to point out the area. Hovering
  over the marker reveals an instruction to zoom in and look at the 
